@@ -1,0 +1,2 @@
+module cuoi_ky {
+}
